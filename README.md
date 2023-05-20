@@ -1,2 +1,2 @@
 # Python_Calculator_bot
-# Didn`t work
+In this example, I made a telegram bot that solves small examples with mathematical operations such as: Addition and subtraction, multiplication and division
